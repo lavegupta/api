@@ -177,26 +177,47 @@
             "content": "Contact"
         }]
     },
-    "slider": [
+    "home":
     {
-        "title": "Welcome to the Right Preparation",
-        "text": "Join now and become a part of the next big master revolution. Right Preparation Tutor will help <br> you reach your full potential.",
-        "cta": "Lets Get Started",
-        "url": "#",
-        "image": "assets/img/slide_01.jpg"
-    },
-    {
-        "title": "Welcome to the Right Preparation",
-        "text": "Join now and become a part of the next big master revolution. Right Preparation Tutor will help <br> you reach your full potential.",
-        "cta": "Lets Get Started",
-        "url": "#",
-        "image": "assets/img/slide_01.jpg"
-    },
-    {
-        "title": "Welcome to the Right Preparation",
-        "text": "Join now and become a part of the next big master revolution. Right Preparation Tutor will help <br> you reach your full potential.",
-        "cta": "Lets Get Started",
-        "url": "#",
-        "image": "assets/img/slide_01.jpg"
-    }]
+        "slider": [
+        {
+            "title": "Welcome to the Right Preparation",
+            "text": "Join now and become a part of the next big master revolution. Right Preparation Tutor will help <br> you reach your full potential.",
+            "cta": "Lets Get Started",
+            "url": "#",
+            "image": "assets/img/slide_01.jpg"
+        },
+        {
+            "title": "Welcome to the Right Preparation",
+            "text": "Join now and become a part of the next big master revolution. Right Preparation Tutor will help <br> you reach your full potential.",
+            "cta": "Lets Get Started",
+            "url": "#",
+            "image": "assets/img/slide_01.jpg"
+        },
+        {
+            "title": "Welcome to the Right Preparation",
+            "text": "Join now and become a part of the next big master revolution. Right Preparation Tutor will help <br> you reach your full potential.",
+            "cta": "Lets Get Started",
+            "url": "#",
+            "image": "assets/img/slide_01.jpg"
+        }],
+        "vision":
+        {
+            "heading": "Our Vision",
+            "content": "There is one profession in India, which is undoubtedly the most prestigious, secured, adventurous, passionate, desirable, accountable, responsible, dependable and top to join in… is called as the CIVIL SERVICES and to be precise The IAS. Then the questions come, why it is so lucrative??? What is the rationale behind this creation??? It is the essence that keeps our national integration intact,respects our unity with diversity,realize our idea of co-operative federalism, ensures the smooth continuity of our day to day administration, sets an unique standard of economy, efficiency & effectiveness. But our matter of concern is a fascinating examination that required to be conquered in order to realize all these dimensions of administration…",
+            "blocks": [
+            {
+                "title": "COMPREHENSIVE COURSE",
+                "image": "assets/img/comprehensive.png"
+            },
+            {
+                "title": "INTERACTIVE LESSONS",
+                "image": "assets/img/interactive.png"
+            },
+            {
+                "title": "LIVE SUPPORT",
+                "image": "assets/img/live_support.png"
+            }]
+        }
+    }
 }
