@@ -1,0 +1,60 @@
+{
+	"footer" : {
+		"brand" : { "title" : "Right Preparation", "path" : "assets/img/logo.jpg"},
+		"quickLinks" : {
+			"heading" : "Quick Links",
+			"links" : [
+		        { "url" : "/about",  "content" : "About"},
+		        { "url" : "/courses",  "content" : "Courses"},
+		        { "url" : "/test-series",  "content" : "Test Series"},
+		        { "url" : "/contact",  "content" : "Contact"},
+		        { "url" : "/team",  "content" : "Team"}
+			]
+		},
+		"resources" : {
+			"heading" : "Resources",
+			"links" : [
+		        { "url" : "/downloads",  "content" : "Downloads"},
+		        { "url" : "/testimonials",  "content" : "Testimonials"},
+		        { "url" : "/interview-programm",  "content" : "Interview Programm"},
+		        { "url" : "/terms-of-use",  "content" : "Terms of Use"},
+		        { "url" : "/privacy-policy",  "content" : "Privacy Policym"}
+			]
+		},
+		"connect" : {
+			"heading" : "Connect",
+			"phone" : {"icon" : "fa fa-phone", "content" : "979 9576 897"},
+			"email" : {"icon" : "fa fa-envelope-o", "content" : "info@rightpreparation.com"},
+			"social" : [
+		        {"url" : "#", "class" : "fa fa-facebook"},
+		        {"url" : "#", "class" : "fa fa-twitter"},
+		        {"url" : "#", "class" : "fa fa-linkedin"}
+			]
+		},
+		"copyright" : "&copy; 2017 Right Preparation Group",
+		"socials" : [
+			{ "url" : "mailto:info@rightpreparation.com", "class" : "envelope", "icon" : "fa fa-envelope", "text" : "Email"},
+			{ "url" : "tel:9799576897", "class" : "phone", "icon" : "fa fa-phone", "text" : "Phone"},
+			{ "url" : "#", "class" : "facebook", "icon" : "fa fa-facebook", "text" : "Facebook"},
+			{ "url" : "#", "class" : "google-plus", "icon" : "fa fa-google-plus", "text" : "Google"},
+			{ "url" : "#", "class" : "twitter", "icon" : "fa fa-twitter", "text" : "Twitter"},
+			{ "url" : "#", "class" : "youtube", "icon" : "fa fa-youtube", "text" : "Youtube"},
+			{ "url" : "#", "class" : "linkedin", "icon" : "fa fa-linkedin", "text" : "Linkedin"}
+		]
+	},
+	"header" : {
+		"brand" : { "title" : "Right Preparation", "path" : "assets/img/logo_h.jpg"},
+		"nav" : [
+			{ "url" : "/", "content" : "<i class='fa fa-home'></i>" },
+			{ "url" : "/about", "content" : "About" },
+			{ "url" : "/courses", "content" : "Courses" },
+			{ "url" : "/test-series", "content" : "Test Series" },
+			{ "url" : "/interview-programme", "content" : "Interview Programme" },
+			{ "url" : "/downloads", "content" : "Downloads" },
+			{ "url" : "/team", "content" : "Team" },
+			{ "url" : "/news", "content" : "News" },
+			{ "url" : "/gallery", "content" : "Gallery" },
+			{ "url" : "/contact", "content" : "Contact" }
+		]
+	}
+}
