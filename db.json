@@ -138,43 +138,53 @@
         "nav": [
         {
             "url": "/",
-            "content": "<i class='fa fa-home'></i>"
+            "content": "<i class='fa fa-home'></i>",
+            "title": "Home"
         },
         {
             "url": "/about",
-            "content": "About"
+            "content": "About",
+            "title": "About"
         },
         {
             "url": "/courses",
-            "content": "Courses"
+            "content": "Courses",
+            "title": "Courses"
         },
         {
             "url": "/test-series",
-            "content": "Test Series"
+            "content": "Test Series",
+            "title": "Test Series"
         },
         {
             "url": "/interview-programme",
-            "content": "Interview Programme"
+            "content": "Interview Programme",
+            "title": "Interview Programme"
         },
         {
             "url": "/downloads",
-            "content": "Downloads"
+            "content": "Downloads",
+            "title": "Downloads"
         },
         {
             "url": "/team",
-            "content": "Team"
+            "content": "Team",
+            "title": "Team"
         },
         {
             "url": "/news",
-            "content": "News"
+            "content": "News",
+            "title": "News"
         },
         {
             "url": "/gallery",
-            "content": "Gallery"
+            "content": "Gallery",
+            "title": "Gallery"
         },
         {
             "url": "/contact",
-            "content": "Contact"
+            "content": "Contact",
+            "title": "Contact"
         }]
     },
     "home":
@@ -219,5 +229,17 @@
                 "image": "assets/img/live_support.png"
             }]
         }
-    }
+    },
+    "about":
+    {},
+    "subscribers": [
+    {
+        "name": "Lave",
+        "email": "lavegupta@live.in"
+    },
+    {
+        "name": "Arushi",
+        "email": "abhargava980@gmail.com"
+    }]
+
 }
